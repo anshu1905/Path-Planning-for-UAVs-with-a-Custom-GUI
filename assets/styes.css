@@ -1,0 +1,217 @@
+.video {
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 450px;
+  align-content: center;
+  padding-top: 3px;
+  padding-left: 10px;
+}
+
+.text_input_1 {
+  margin-top: 10%;
+  justify-content: center;
+  margin-left: auto;
+  margin-left: auto;
+}
+
+.text_input_2 {
+  justify-content: center;
+  margin-left: auto;
+  margin-left: auto;
+}
+
+.text_input_3 {
+  margin-top: 10%;
+  justify-content: center;
+  margin-left: auto;
+  margin-left: auto;
+}
+
+.text_input_4 {
+  justify-content: center;
+  margin-left: auto;
+  margin-left: auto;
+}
+
+.video-col {
+  width: 34%;
+  padding-left: 10px;
+}
+
+.map {
+  justify-content: center;
+  align-content: center;
+  width: 450px;
+  height: 330px;
+}
+
+.map-div {
+  justify-content: center;
+  align-content: center;
+  padding-left: 7%;
+  max-width: 30%;
+}
+
+.center-div {
+  justify-content: center;
+  align-content: center;
+}
+
+.heading {
+  justify-content: center;
+  width: max-content;
+}
+
+.led {
+  position: relative;
+  color: rgb(39, 129, 129);
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  color: black;
+  padding-top: 30px;
+}
+
+.led-div {
+  max-width: 36%;
+  padding-left: 4%;
+}
+
+.bar {
+  width: min-content;
+  position: relative;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  color: black;
+  margin-left: 12%;
+}
+
+.button-div {
+  max-width: 100%;
+  font-size: 24px;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  padding-top: 10%;
+  padding-left: 10%;
+}
+
+.g2 {
+  position: relative;
+  width: min-content;
+  text-align: center;
+  height: 250px;
+  margin-left: 20%;
+}
+
+.g2-div {
+  padding-left: 10%;
+}
+
+.my-plot {
+  justify-content: center;
+  align-content: center;
+}
+
+.nav {
+  justify-content: center;
+  align-content: center;
+  width: 100%;
+  position: relative;
+  color: white;
+  text-align: center;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 970px;
+  }
+}
+
+.record {
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.button {
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  width: 50%;
+  font-size: 24px;
+}
+
+.reset_button {
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  width: 50%;
+  font-size: 24px;
+}
+
+.reset_button-div {
+  max-width: 100%;
+  font-size: 24px;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  padding-top: 10%;
+  padding-left: 10%;
+}
+.alert {
+  width: fit-content;
+  padding-bottom: 5%;
+}
+
+.alert1 {
+  width: fit-content;
+  padding-bottom: 5%;
+}
+
+.alert-div {
+  width: max-content;
+  justify-content: center;
+  padding-left: 20%;
+  padding-top: 5%;
+}
+
+.alert1-div {
+  width: max-content;
+  justify-content: center;
+  padding-left: 20%;
+  padding-top: 5%;
+}
+
+.logo {
+  width: auto;
+  height: 55px;
+  margin-left: -250%;
+  float: left;
+}
+
+.dashboard {
+  justify-content: center;
+  align-content: center;
+  padding-left: 475px;
+}
+
+.playback {
+  justify-content: center;
+  align-content: center;
+  padding-left: 5px;
+}
+
+.drop_down {
+  justify-content: center;
+  align-content: center;
+  padding-left: 5px;
+}
+
+.heading1 {
+  justify-content: center;
+  align-content: center;
+}

@@ -1,0 +1,13 @@
+pyserial
+flask
+dash
+dash-html-components
+dash-bootstrap-components
+dash-leaflet
+dash-core-components
+dash-daq
+plotly
+xlwt
+open-cv
+requests
+datetime
