@@ -55,27 +55,27 @@ flask run
  ## Shortest Path Algorithm 
  
  <p align="center">
-  <img src="Step1.png">
+  <img src="Step 1.png">
  </p>
  
   <p align="center">
-  <img src="Step2.png">
+  <img src="Step 2.png">
  </p>
  
   <p align="center">
-  <img src="Step3.png">
+  <img src="Step 3.png">
  </p>
  
   <p align="center">
-  <img src="Step4.png">
+  <img src="Step 4.png">
  </p>
  
   <p align="center">
-  <img src="Step5.png">
+  <img src="Step 5.png">
  </p>
  
   <p align="center">
-  <img src="Step6.png">
+  <img src="Step 6.png">
  </p>
  
 
