@@ -1,9 +1,4 @@
-# CSE2003_DSA_Project
 ## Path Planning for UAVs with a Custom GUI
-
-## Team Mates
-* Anshuman Phadke - 19BEC0428
-* Saksham Bhutani - 19BEC0559
 
 ## Introduction 
 
